@@ -1,0 +1,17 @@
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\4 - Controle de Fluxo.vbproj.AssemblyReference.cache
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\_4___Controle_de_Fluxo.frmPrincipal4.resources
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\4 - Controle de Fluxo.vbproj.GenerateResource.cache
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\4 - Controle de Fluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\4 - Controle de Fluxo.AssemblyInfoInputs.cache
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\4 - Controle de Fluxo.AssemblyInfo.vb
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\4 - Controle de Fluxo.vbproj.CoreCompileInputs.cache
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\bin\Debug\net6.0-windows\4 - Controle de Fluxo.exe
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\bin\Debug\net6.0-windows\4 - Controle de Fluxo.deps.json
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\bin\Debug\net6.0-windows\4 - Controle de Fluxo.runtimeconfig.json
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\bin\Debug\net6.0-windows\4 - Controle de Fluxo.dll
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\bin\Debug\net6.0-windows\4 - Controle de Fluxo.pdb
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\4 - Controle de Fluxo.dll
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\refint\4 - Controle de Fluxo.dll
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\4 - Controle de Fluxo.pdb
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\4 - Controle de Fluxo.genruntimeconfig.cache
+C:\Users\Nátalle\source\repos\4 - Controle de Fluxo\obj\Debug\net6.0-windows\ref\4 - Controle de Fluxo.dll
